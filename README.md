@@ -1,2 +1,2 @@
 # learn-shell
-shell concepts
+basic shell concepts
